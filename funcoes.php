@@ -1,7 +1,7 @@
 <?php
 
-	function gravarHistorico($registro) {
-		$manipulador = fopen('historico.txt', 'a');
+	function historico($registro) {
+		$manipulador = fopen('bancodados/historico.txt', 'a');
 		if ($manipulador === false) {
 
 		}

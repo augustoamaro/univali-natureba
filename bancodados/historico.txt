@@ -1,0 +1,75 @@
+
+====================================
+Quantidade de Produtos: 4
+Produto: Acerola
+Unidade(s): 4
+Total Item(s): R$12,00
+Valor Total: R$12
+Produto: Amora
+Unidade(s): 44
+Total Item(s): R$880,00
+Valor Total: R$892
+Produto: Tomate
+Unidade(s): 4
+Total Item(s): R$8,00
+Valor Total: R$900
+Produto: Kiwi
+Unidade(s): 4
+Total Item(s): R$23,96
+Valor Total: R$923.96
+====================================
+Quantidade de Produtos: 9
+Produto: Cereja
+Unidade(s): 2
+Total Item(s): R$21,00
+Valor Total: R$21
+Produto: Abacaxi
+Unidade(s): 3
+Total Item(s): R$17,40
+Valor Total: R$38.4
+Produto: Banana
+Unidade(s): 34
+Total Item(s): R$136,00
+Valor Total: R$174
+Produto: Guarana
+Unidade(s): 6
+Total Item(s): R$150,00
+Valor Total: R$324
+Produto: Abacaxi
+Unidade(s): 3
+Total Item(s): R$17,40
+Valor Total: R$341.4
+Produto: Morango
+Unidade(s): 6
+Total Item(s): R$6,00
+Valor Total: R$347
+Produto: Produto
+Unidade(s): 6
+Total Item(s): R$0,00
+Valor Total: R$347
+Produto: Bluberry
+Unidade(s): 5
+Total Item(s): R$66,25
+Valor Total: R$413.25
+Produto: Acai
+Unidade(s): 10
+Total Item(s): R$50,00
+Valor Total: R$463
+====================================
+Quantidade de Produtos: 4
+Produto: Melancia
+Unidade(s): 4
+Total Item(s): R$20,00
+Valor Total: R$20
+Produto: Kiwi
+Unidade(s): 5
+Total Item(s): R$29,95
+Valor Total: R$49.95
+Produto: Blueberry
+Unidade(s): 6
+Total Item(s): R$79,50
+Valor Total: R$128.5
+Produto: Kiwi
+Unidade(s): 7
+Total Item(s): R$41,93
+Valor Total: R$169.93
