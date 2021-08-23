@@ -1,2 +1,3 @@
 # Natureba
-Trabalho Final Programação I - Univali
+Projeto: Natureba
+Disciplina: Programação I
